@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Solutions CodeWars</h1>
+    <p>N'allez pas voir si vous n'avez pas encore fait le challenge ce repo est fait pour voir une autre vision de la solution possible</p>
     <p>Ce référentiel contient mes solutions pour divers problèmes sur CodeWars. CodeWars est une plateforme en ligne où les développeurs peuvent s'entraîner en résolvant des exercices de codage appelés "Katas". Chaque Kata est classé par niveau de difficulté, de 8 kyu (plus facile) à 1 kyu (plus difficile).</p>
     <h2>Structure du Répertoire</h2>
     <p>Chaque dossier correspond à une catégorie particulière de problèmes, et à l'intérieur, vous trouverez les solutions individuelles pour chaque Kata. La structure est la suivante :</p>
