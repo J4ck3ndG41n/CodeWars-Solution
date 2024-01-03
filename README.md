@@ -12,9 +12,11 @@
     <p>Chaque dossier correspond à une catégorie particulière de problèmes, et à l'intérieur, vous trouverez les solutions individuelles pour chaque Kata. La structure est la suivante :</p>
     <pre>
         /Category
-          /Kata-Name
-            - solution.py
-            - tests.py
+          /Kata
+            /kyu-number
+                /kata-name
+                    - solution.py
+                    - tests.py
     </pre>
     <ul>
         <li><code>/Category</code> : Dossier regroupant les solutions pour une catégorie spécifique.</li>
